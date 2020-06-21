@@ -1,0 +1,112 @@
+/* Global styles ************************************************* */
+
+body {
+    color: #343434;
+    margin: 0;
+    padding: 0;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 17px;
+    line-height: 1.3;
+}
+
+img {
+    width: 300px;
+}
+
+a {
+    color: #FFE66D;
+}
+
+a:hover {
+    text-decoration: none;
+}
+
+h1 {
+    font-size: 50px;
+    line-height: 1;
+}
+
+h2 {
+    /* margin: 0; */
+    font-size: 35px;
+}
+
+h1,
+h2 {
+    font-family: 'Caveat', cursive;
+    font-weight: 400;
+    margin: 0;
+}
+
+.content-wrap {
+    width: 800px;
+    margin: 0 auto;
+    padding: 60px 0;
+}
+
+
+/* ************************************************* */
+
+
+/* Profile ************************************************* */
+
+header {
+    background: #2F3061;
+    color: #F7FFF7;
+}
+
+
+/* ************************************************* */
+
+
+/* Projects ************************************************* */
+
+.project {
+    background: #f7fff7;
+}
+
+.project a {
+    color: #2f3061;
+}
+
+.project .btn {
+    color: #f7fff7;
+    background: #2f3061;
+    text-decoration: none;
+    padding: 8px;
+    border-radius: 4px;
+    display: inline-block;
+}
+
+.project .btn:hover {
+    background: rgba(47, 48, 97, 80%);
+}
+
+
+/* ************************************************* */
+
+
+/* Work exp ************************************************* */
+
+.wrk-exp {
+    background: #A1C6D7;
+}
+
+
+/* ************************************************* */
+
+
+/* Education ************************************************* */
+
+
+/* ************************************************* */
+
+
+/* Contact info ************************************************* */
+
+footer {
+    background: #343434;
+}
+
+
+/* ************************************************* */
